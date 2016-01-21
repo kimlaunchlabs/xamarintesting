@@ -1,0 +1,7 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/bin/Debug/Core.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/bin/Debug/Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/obj/Debug/Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/obj/Debug/Core.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Core/bin/Debug/Xamarin.Forms.Xaml.dll

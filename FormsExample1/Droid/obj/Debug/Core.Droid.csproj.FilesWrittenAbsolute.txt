@@ -1,0 +1,6 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/obj/Debug/res/drawable/monoandroidsplash.png
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/obj/Debug/res/values/styles.xml
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/bin/Debug/Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/bin/Debug/Core.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/Droid/bin/Debug/Xamarin.Forms.Core.dll

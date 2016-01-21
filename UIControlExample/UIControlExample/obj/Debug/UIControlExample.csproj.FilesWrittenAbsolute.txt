@@ -1,0 +1,7 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/bin/Debug/UIControlExample.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/bin/Debug/UIControlExample.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/obj/Debug/UIControlExample.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/obj/Debug/UIControlExample.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/UIControlExample/UIControlExample/bin/Debug/Xamarin.Forms.Xaml.dll

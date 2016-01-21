@@ -1,0 +1,7 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/bin/Debug/NavigationSample.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/bin/Debug/NavigationSample.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/obj/Debug/NavigationSample.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/obj/Debug/NavigationSample.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/NavigationSample/NavigationSample/bin/Debug/Xamarin.Forms.Xaml.dll

@@ -1,0 +1,8 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Core.dll.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll

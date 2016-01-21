@@ -1,0 +1,14 @@
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/FormsExample1.iOS.exe.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/FormsExample1.iOS.exe
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/FormsExample1.iOS.exe
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/obj/iPhoneSimulator/Debug/FormsExample1.iOS.exe.mdb
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/FormsExample1.dll
+/Users/lldm0033/kimConchaWorkingDatus/Xamarin Projects/FormsExample1/iOS/bin/iPhoneSimulator/Debug/FormsExample1.dll.mdb
